@@ -1,4 +1,4 @@
-# Copa do Mundo 2026 — do EDA a um modelo honesto
+# Copa do Mundo 2026
 
 Projeto de Data Science de ponta a ponta sobre um dataset **simulado** de performance de jogadores
 na Copa do Mundo de 2026 (54.600 linhas — 1 linha = 1 jogador em 1 partida). O objetivo: sair da
